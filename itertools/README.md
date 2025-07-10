@@ -1,5 +1,4 @@
 
-```markdown
 # 📘 Python `itertools` Module – Interactive Notebook Practice
 
 Welcome!  
@@ -75,6 +74,3 @@ Let’s grow this learning repo together! 🚀
 
 ### 😊 Happy Coding!
 Made with 💻 + ❤️ by **Luv Vishwakarma**
-```
-
----
